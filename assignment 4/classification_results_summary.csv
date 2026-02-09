@@ -1,0 +1,7 @@
+Dataset,Number of Classes,Total Samples,Classes,Training Accuracy,Testing Accuracy,OOB Score
+Grouped_2_class,2,1421,"[np.uint8(1), np.uint8(5)]",1.0000,0.9461,0.9577
+Grouped_3_class,3,2335,"[np.uint8(1), np.uint8(2), np.uint8(5)]",1.0000,0.9344,0.9186
+Grouped_4_class,4,2934,"[np.uint8(1), np.uint8(2), np.uint8(3), np.uint8(5)]",1.0000,0.8661,0.8709
+Grouped_5_class,5,3394,"[np.uint8(1), np.uint8(2), np.uint8(3), np.uint8(4), np.uint8(5)]",1.0000,0.8126,0.8232
+Full_Grouped,5,3394,"[np.uint8(1), np.uint8(2), np.uint8(3), np.uint8(4), np.uint8(5)]",1.0000,0.8126,0.8232
+Individual_5_class,5,285,"[np.uint8(1), np.uint8(2), np.uint8(3), np.uint8(4), np.uint8(5)]",1.0000,0.7209,0.6633
